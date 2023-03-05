@@ -10,7 +10,7 @@ export default function Hero() {
                 <Link href="/" className="text-3xl font-bold leading-none">
                     <img src="bnet.webp" alt="logo bnet" className="h-7" />
                 </Link>                
-                <a className="inline-block py-2 px-6 bg-blue-500 hover:bg-blue-600 text-sm text-white font-bold rounded-xl transition duration-200" href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih.">Hubungi Kami</a>
+                <a className="inline-block py-2 px-6 bg-blue-500 hover:bg-blue-600 text-sm text-white font-bold rounded-xl transition duration-200" href="https://api.whatsapp.com/send?phone=6289635907270&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih.">Hubungi Kami</a>
             </nav>
 
         </header>

@@ -34,7 +34,7 @@ export default function Home() {
         <Header />
         <HeroSmall />
         <Feature />
-          <a href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih." className="float" target="_blank">
+          <a href="https://api.whatsapp.com/send?phone=6289635907270&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih." className="float" target="_blank">
             <i><img src='/wa.svg' alt='whatsapp icon'></img></i>
           </a>
         <AboutSmall />
