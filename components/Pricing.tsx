@@ -34,7 +34,7 @@ export default function Pricing() {
           <span className="ml-3">Biaya bulanan <span className="text-black">Selalu Flat</span> </span>
         </li>
       </ul>
-      <a href="https://api.whatsapp.com/send?phone=6289635907270&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih." className="flex justify-center items-center bg-indigo-600 rounded-xl py-5 px-4 text-center text-white text-xl">
+      <a href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, boleh dibantu info pemasangan paket Serbu 20 nya. Terimakasih." className="flex justify-center items-center bg-indigo-600 rounded-xl py-5 px-4 text-center text-white text-xl">
         Pilih Paket
         <img src="https://res.cloudinary.com/williamsondesign/arrow-right.svg" alt="Hubungi Kami" className="ml-2" />
       </a>
@@ -62,7 +62,7 @@ export default function Pricing() {
           <span className="ml-3">Biaya bulanan <span className="text-white"> Selalu Flat</span> </span>
         </li>
       </ul>
-      <a href="https://api.whatsapp.com/send?phone=6289635907270&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih." className="flex justify-center items-center bg-indigo-600 rounded-xl py-6 px-4 text-center text-white text-2xl">
+      <a href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, boleh dibantu info pemasangan paket Serbu 10 nya. Terimakasih." className="flex justify-center items-center bg-indigo-600 rounded-xl py-6 px-4 text-center text-white text-2xl">
         Pilih Paket
         <img src="https://res.cloudinary.com/williamsondesign/arrow-right.svg" alt="Hubungi Kami" className="ml-2" />
       </a>
@@ -90,7 +90,7 @@ export default function Pricing() {
           <span className="ml-3">Biaya bulanan <span className="text-white"> Selalu Flat</span> </span>
         </li>
       </ul>
-      <a href="https://api.whatsapp.com/send?phone=6289635907270&text=Halo Bnetfit, boleh dibantu info pemasangan nya. Terimakasih." className="flex justify-center items-center bg-indigo-600 rounded-xl py-5 px-4 text-center text-white text-xl">
+      <a href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, boleh dibantu info pemasangan paket Serbu 30 nya. Terimakasih." className="flex justify-center items-center bg-indigo-600 rounded-xl py-5 px-4 text-center text-white text-xl">
         Pilih Paket
         <img src="https://res.cloudinary.com/williamsondesign/arrow-right.svg" alt="Hubungi Kami" className="ml-2" />
       </a>
