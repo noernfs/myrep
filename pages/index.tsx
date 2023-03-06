@@ -24,9 +24,9 @@ export default function Home() {
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/icon-192x192.png" />
         <meta name="theme-color" content="#fff" />
-        <meta name="description" content="Masang wifi murah bnetfit dengan kecepatan hingga 100 Mbps" />
+        <meta name="description" content="Masang wifi murah bnetfit dengan kecepatan hingga 100 Mbps. Gratis Instalasi dan biaya sewa perangkat. Promo Wifi Bnetfit paling lengkap cuma ada disini dengan diskon hingga 40%." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/icon-192x192.webp" />
+        <link rel="icon" href="/icon-192x192.png" />
         <meta name="google-site-verification" content="yohkTPcqFCI-TFPCDX0KDpSNLztjeoC1lxA8zvk96BI" />
         
       </Head>
