@@ -27,7 +27,7 @@ export default function Feature() {
         </div>
         <div className="w-full bg-white rounded-lg sahdow-lg overflow-hidden flex flex-col justify-center items-center">
             <div>
-                <Image className="object-center object-cover h-auto w-full" width={750} height={450} src="/feature2.webp" alt="promo menarik" />
+                <Image className="object-center object-cover h-auto w-full" width={750} height={450} src="/feature3.webp" alt="promo menarik" />
             </div>
             <div className="text-center py-8 sm:py-6">
                 <p className="text-xl text-gray-700 font-bold mb-2">Promo Bnetfit</p>
@@ -36,7 +36,7 @@ export default function Feature() {
         </div>
         <div className="w-full bg-white rounded-lg sahdow-lg overflow-hidden flex flex-col justify-center items-center">
             <div>
-                <Image className="object-center object-cover h-auto w-full" width={750} height={450} src="/feature3.webp" alt="unlimited tanpa fup" />
+                <Image className="object-center object-cover h-auto w-full" width={750} height={450} src="/feature2.webp" alt="unlimited tanpa fup" />
             </div>
             <div className="text-center py-8 sm:py-6">
                 <p className="text-xl text-gray-700 font-bold mb-2">Wifi Unlimited</p>
