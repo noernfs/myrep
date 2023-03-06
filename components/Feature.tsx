@@ -18,7 +18,7 @@ export default function Feature() {
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div className="w-full bg-white rounded-lg sahdow-lg overflow-hidden flex flex-col justify-center items-center">
             <div>
-                <Image className="object-center object-cover h-auto w-full" src="/feature1.webp" width={594} height={356} alt='gratis instalasi'/>
+                <Image className="object-center object-cover h-auto w-full" src="/feature1.webp" width={750} height={450} alt='gratis instalasi'/>
             </div>
             <div className="text-center py-8 sm:py-6">
                 <p className="text-xl text-gray-700 font-bold mb-2">Bebas Biaya Instalasi</p>
@@ -27,7 +27,7 @@ export default function Feature() {
         </div>
         <div className="w-full bg-white rounded-lg sahdow-lg overflow-hidden flex flex-col justify-center items-center">
             <div>
-                <Image className="object-center object-cover h-auto w-full" width={594} height={356} src="/feature2.webp" alt="promo menarik" />
+                <Image className="object-center object-cover h-auto w-full" width={750} height={450} src="/feature2.webp" alt="promo menarik" />
             </div>
             <div className="text-center py-8 sm:py-6">
                 <p className="text-xl text-gray-700 font-bold mb-2">Promo Bnetfit</p>
@@ -36,7 +36,7 @@ export default function Feature() {
         </div>
         <div className="w-full bg-white rounded-lg sahdow-lg overflow-hidden flex flex-col justify-center items-center">
             <div>
-                <Image className="object-center object-cover h-auto w-full" width={594} height={356} src="/feature3.webp" alt="unlimited tanpa fup" />
+                <Image className="object-center object-cover h-auto w-full" width={750} height={450} src="/feature3.webp" alt="unlimited tanpa fup" />
             </div>
             <div className="text-center py-8 sm:py-6">
                 <p className="text-xl text-gray-700 font-bold mb-2">Wifi Unlimited</p>
