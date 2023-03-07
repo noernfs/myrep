@@ -1,3 +1,3 @@
 User-agent:*
 Disallow:
-Sitemap: https://www.salesbnetfit.my.id/sitemap
+Sitemap: https://www.bnetfit.online/sitemap
