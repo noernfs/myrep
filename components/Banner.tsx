@@ -10,9 +10,9 @@ export default function Banner() {
     alt="aji"
     width={1920}
     height={400}
-    className="object-cover w-full mx-auto h-auto"
+    className="imgbanner"
     />
-    <div className="rounded-t-2xl absolute bg-gradient-to-t from-gray-800 opacity-75 inset-0 z-0"></div>
+    <div className="divbanner"></div>
     
 </div>
 
@@ -22,9 +22,9 @@ export default function Banner() {
     alt="aji"
     width={1920}
     height={800}
-    className="object-cover w-full mx-auto h-auto"
+    className="imgbanner"
     />
-    <div className="rounded-t-2xl absolute bg-gradient-to-t from-gray-800 opacity-75 inset-0 z-0"></div>
+    <div className="divbanner"></div>
     
 </div>
       </>
