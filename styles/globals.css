@@ -22,16 +22,12 @@
 }
 
 @layer components {
-	.sectionabout{
-		@apply dark:bg-gray-800;
-	}
-
 	.div1about{
 		@apply max-w-screen-xl px-4 pb-8 mx-auto space-y-12;
 	}
 
 	.h2about{
-		@apply mb-4 text-3xl font-extrabold tracking-tight text-blue-900 dark:text-white;
+		@apply mb-4 text-3xl font-extrabold tracking-tight text-blue-900;
 	}
 
 	.ulabout{
@@ -47,7 +43,7 @@
 	}
 
 	.textabout{
-		@apply text-base font-medium leading-tight text-gray-500 dark:text-white;	
+		@apply text-base font-medium leading-tight text-gray-500;	
 	}
 
 	/* banner */
@@ -61,10 +57,6 @@
 	}
 
 	/* exp */
-
-	.sectionexp{
-		@apply dark:bg-gray-800;
-	}
 
 	.div1exp{
 		@apply max-w-screen-xl px-4 py-8 mx-auto space-y-12 ;

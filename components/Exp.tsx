@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Exp() {
     return (
         <>
-            <section className="sectionexp">
+            <section>
                 <div className="div1exp lg:space-y-20 lg:pt-24 lg:px-6">
                     <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
                         <Image
