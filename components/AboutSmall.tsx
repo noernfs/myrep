@@ -8,10 +8,15 @@ export default function AboutSmall() {
                 <div className="div1about">
                     <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
                         <div className="text-gray-500 sm:text-lg">
-                            <h2 className="h2about">Wifi Murah Wifi Stabil</h2>
+                            <h2 className="h2about">
+                                Wifi Bnetfit - Tentang Kami
+                            </h2>
                             <p className="mb-8 font-light lg:text-xl">
-                                Harga terbaik yang bisa anda dapatkan, didukung
-                                dengan intensitas peningkatan jaringan untuk
+                                Bnetfit hadir untuk memberikan solusi internet
+                                untuk keluarga indonesia dengan menawarkan
+                                pilihan harga terbaik yang didukung oleh
+                                komitmen kami dalam meningkatkan layanan
+                                jaringan untuk menghasilkan kualitas layanan
                                 internet yang lebih stabil.{" "}
                             </p>
 
@@ -69,10 +74,10 @@ export default function AboutSmall() {
                                 </li>
                             </ul>
                             <p className="font-light lg:text-xl">
-                                Masang wifi gaperlu ribet, cukup teliti. Hubungi
-                                kami untuk mendapatkan harga terbaik dan
-                                rekomendasi promo bnetfit yang sesuai dengan
-                                kebutuhan anda.
+                                Nikmati kemudahan berlangganan dengan layanan
+                                kami. Konsultasikan kebutuhan internet anda
+                                dengan tenaga ahli dari Bnetfit dan dapatkan
+                                promo menarik yang sesuai dengan kebutuhan anda.
                             </p>
                         </div>
                         <Image

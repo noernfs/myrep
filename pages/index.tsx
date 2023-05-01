@@ -13,6 +13,7 @@ import Exp from "@/components/Exp";
 import Call from "@/components/Call";
 import Footer from "@/components/Footer";
 import Script from "next/script";
+import Howdy from "@/components/Howdy";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -54,8 +55,9 @@ export default function Home() {
                     ></iframe>
                 </noscript>
                 <Header />
+
                 <HeroSmall />
-                <Feature />
+
                 <a
                     href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, boleh dibantu info paket promo nya. Terimakasih."
                     className="float"
@@ -67,6 +69,7 @@ export default function Home() {
                     </i>
                 </a>
                 <AboutSmall />
+                <Feature />
                 <Banner />
                 <Exp />
                 <Pricing />
