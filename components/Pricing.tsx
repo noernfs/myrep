@@ -20,10 +20,10 @@ export default function Pricing() {
                                 className="imgpricing"
                             />
                             <div className="ml-5">
-                                <span className="spanpricing">Serbu 20</span>
+                                <span className="spanpricing">Homelink 30</span>
                                 <span>
                                     <span className="spanrp">Rp&thinsp;</span>
-                                    <span className="spanhg">290rb </span>
+                                    <span className="spanhg">249rb </span>
                                 </span>
                                 <span className="spanbulan">/ bulan</span>
                             </div>
@@ -35,8 +35,20 @@ export default function Pricing() {
                                     alt="Serbu 20"
                                 />
                                 <span className="ml-3">
-                                    Peningkatan paket kecepatan menjadi{" "}
-                                    <span className="text-black">30 Mbps</span>
+                                    Unlimited tanpa{" "}
+                                    <span className="text-black">
+                                        Kuota dan FUP
+                                    </span>
+                                </span>
+                            </li>
+                            <li className="lipricing">
+                                <img
+                                    src="https://res.cloudinary.com/williamsondesign/check-grey.svg"
+                                    alt="Serbu 20"
+                                />
+                                <span className="ml-3">
+                                    Kecepatan optimal{" "}
+                                    <span className="text-black">30 Mpbs</span>
                                 </span>
                             </li>
                             <li className="lipricing">
@@ -85,7 +97,7 @@ export default function Pricing() {
                                 className="imgpricing"
                             />
                             <div className="ml-5">
-                                <span className="serbu10">Serbu 10</span>
+                                <span className="serbu10">Homelink 20</span>
                                 <span>
                                     <span className="rp10">Rp&thinsp;</span>
                                     <span className="spanhg text-white">
@@ -102,8 +114,20 @@ export default function Pricing() {
                                     alt="Serbu 10"
                                 />
                                 <span className="ml-3">
-                                    Peningkatan paket kecepatan menjadi{" "}
-                                    <span className="text-white"> 20 Mbps</span>
+                                    Unlimited tanpa{" "}
+                                    <span className="text-white">
+                                        Kuota dan FUP
+                                    </span>
+                                </span>
+                            </li>
+                            <li className="lipricing">
+                                <img
+                                    src="https://res.cloudinary.com/williamsondesign/check-white.svg"
+                                    alt="Serbu 20"
+                                />
+                                <span className="ml-3">
+                                    Kecepatan optimal{" "}
+                                    <span className="text-white">20 Mbps</span>
                                 </span>
                             </li>
                             <li className="flex mb-6">
@@ -153,12 +177,10 @@ export default function Pricing() {
                                 className="imgpricing"
                             />
                             <div className="ml-5">
-                                <span className="spanpricing">
-                                    Serbu 30 Mbps
-                                </span>
+                                <span className="spanpricing">Homelink 50</span>
                                 <span>
                                     <span className="spanrp">Rp&thinsp;</span>
-                                    <span className="spanhg">440rb </span>
+                                    <span className="spanhg">290rb </span>
                                 </span>
                                 <span className="spanbulan">/ bulan</span>
                             </div>
@@ -170,8 +192,20 @@ export default function Pricing() {
                                     alt="Serbu 30"
                                 />
                                 <span className="ml-3">
-                                    Peningkatan paket kecepatan menjadi{" "}
-                                    <span className="text-black">40 Mbps</span>
+                                    Unimited tanpa{" "}
+                                    <span className="text-black">
+                                        Kuota dan FUP
+                                    </span>
+                                </span>
+                            </li>
+                            <li className="lipricing">
+                                <img
+                                    src="https://res.cloudinary.com/williamsondesign/check-grey.svg"
+                                    alt="Serbu 30"
+                                />
+                                <span className="ml-3">
+                                    Kecepatan optimal{" "}
+                                    <span className="text-black">50 Mbps</span>
                                 </span>
                             </li>
                             <li className="lipricing">
