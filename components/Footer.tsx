@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Footer() {
     return (
         <>
@@ -20,13 +22,15 @@ export default function Footer() {
                         <div className="div2foot">
                             &copy; 2023 Bnetfit Corp. All rights reserved.
                             <div className="order-1 md:order-2">
-                                <span className="px-2">About us</span>
-                                <span className="px-2 border-l">
-                                    Contact us
-                                </span>
-                                <span className="px-2 border-l">
-                                    Privacy Policy
-                                </span>
+                                <Link href="/profil" className="px-2">
+                                    Profil
+                                </Link>
+                                <Link href="/layanan" className="px-2 border-l">
+                                    Layanan
+                                </Link>
+                                <Link href="/tips" className="px-2 border-l">
+                                    Tips Wifi
+                                </Link>
                             </div>
                         </div>
                     </div>
