@@ -8,9 +8,7 @@ export default function AboutSmall() {
                 <div className="div1about">
                     <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
                         <div className="text-gray-500 sm:text-lg">
-                            <h2 className="h2about">
-                                Wifi Bnetfit - Tentang Kami
-                            </h2>
+                            <h2 className="h2about">Wifi Bnetfit</h2>
                             <p className="mb-8 font-light lg:text-xl">
                                 Bnetfit hadir untuk memberikan solusi internet
                                 untuk keluarga indonesia dengan menawarkan

@@ -1,4 +1,4 @@
-import { Navigation, Pagination, Scrollbar, A11y } from "swiper";
+import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from "swiper";
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -8,45 +8,96 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 
-export default function HeroSmall() {
+export default function Herosmall() {
     return (
         <>
-            <Swiper
-                slidesPerView={1}
-                spaceBetween={30}
-                loop={true}
-                pagination={{
-                    clickable: true,
-                }}
-                navigation={true}
-                modules={[Pagination, Navigation]}
-                className="mySwiper flex md:hidden"
-            >
-                <SwiperSlide>
-                    <img
-                        src="/serbusmall.webp"
-                        alt="Promo Paket Serbu"
-                        width={1920}
-                        height={750}
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/ytsmall.webp"
-                        alt="Unlimited Streaming Youtube"
-                        width={1920}
-                        height={750}
-                    />
-                </SwiperSlide>
-                <SwiperSlide>
-                    <Image
-                        src="/instalsmall.webp"
-                        alt="Gratis Instalasi"
-                        width={1920}
-                        height={750}
-                    />
-                </SwiperSlide>
-            </Swiper>
+            <div className="flex md:hidden">
+                <Swiper
+                    slidesPerView={1}
+                    spaceBetween={30}
+                    loop={true}
+                    pagination={{
+                        clickable: true,
+                    }}
+                    autoplay={{
+                        delay: 2500,
+                        disableOnInteraction: false,
+                    }}
+                    navigation={true}
+                    modules={[Pagination, Navigation, Autoplay]}
+                    className="mySwiper"
+                >
+                    <SwiperSlide>
+                        <Image
+                            src="/serbusmall.webp"
+                            alt="Promo Paket Serbu"
+                            width={1920}
+                            height={1500}
+                            loading="eager"
+                        />
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Image
+                            src="/ytsmall.webp"
+                            alt="Unlimited Streaming Youtube"
+                            width={1920}
+                            height={1500}
+                        />
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Image
+                            src="/instalsmall.webp"
+                            alt="Gratis Instalasi"
+                            width={1920}
+                            height={1500}
+                        />
+                    </SwiperSlide>
+                </Swiper>
+            </div>
+
+            <div className="hidden md:flex">
+                <Swiper
+                    slidesPerView={1}
+                    spaceBetween={30}
+                    loop={true}
+                    pagination={{
+                        clickable: true,
+                    }}
+                    autoplay={{
+                        delay: 2500,
+                        disableOnInteraction: false,
+                    }}
+                    navigation={true}
+                    modules={[Pagination, Navigation, Autoplay]}
+                    className="mySwiper"
+                >
+                    <SwiperSlide>
+                        <Image
+                            src="/serbubig.webp"
+                            alt="Promo Paket Serbu"
+                            width={1920}
+                            height={820}
+                            loading="eager"
+                        />
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Image
+                            src="/ytbig.webp"
+                            alt="Unlimited Streaming Youtube"
+                            width={1920}
+                            height={820}
+                        />
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Image
+                            src="/instalbig.webp"
+                            alt="Gratis Instalasi"
+                            width={1920}
+                            height={820}
+                        />
+                    </SwiperSlide>
+                </Swiper>
+            </div>
         </>
     );
 }
