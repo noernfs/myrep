@@ -76,7 +76,7 @@ export default function Herosmall() {
                             src="/serbubig.webp"
                             alt="Promo Paket Serbu"
                             width={1920}
-                            height={820}
+                            height={750}
                             loading="eager"
                         />
                     </SwiperSlide>
@@ -85,7 +85,7 @@ export default function Herosmall() {
                             src="/ytbig.webp"
                             alt="Unlimited Streaming Youtube"
                             width={1920}
-                            height={820}
+                            height={750}
                         />
                     </SwiperSlide>
                     <SwiperSlide>
@@ -93,7 +93,7 @@ export default function Herosmall() {
                             src="/instalbig.webp"
                             alt="Gratis Instalasi"
                             width={1920}
-                            height={820}
+                            height={750}
                         />
                     </SwiperSlide>
                 </Swiper>

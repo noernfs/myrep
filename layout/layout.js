@@ -26,6 +26,7 @@ export default function Layout({
                     content="width=device-width, initial-scale=1"
                 />
                 <link rel="icon" href="/icon-192x192.png" />
+                <meta name="google-site-verification" content="0Ti0C07DwEHVKsqb8qXwGVYvbbOLF2VPWM0q2oV1k54" />
             </Head>
             <div>
                 <Nav />
