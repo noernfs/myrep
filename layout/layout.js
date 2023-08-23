@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function Layout({
     path = "Home",
-    title = "Home | Pasang Wifi Bnetfit Dengan Harga Promo",
+    title = "Promo Merdeka MyRepublic - Mulai dari 249rb/bulan",
     metacontent ="Pasang wifi bnetfit harga mulai 199rb kecepatan hingga 100 Mbps. Gratis Instalasi dan biaya sewa perangkat untuk pemasangan baru.",
     children,
 }) {

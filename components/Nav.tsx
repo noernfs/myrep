@@ -11,11 +11,11 @@ export const Nav = () => {
                 <div className="relative flex items-center justify-between">
                     <Link href="/" className="linky">
                         <Image
-                            src="/bnet.webp"
+                            src="/myrep.png"
                             alt="Logo Bnetfit"
-                            width={94}
+                            width={170}
                             height={29}
-                            className="py-4"
+                            className="py-3"
                         />
                     </Link>
                     <ul className="flex items-center hidden space-x-8 lg:flex">

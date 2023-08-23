@@ -94,14 +94,14 @@ export default function Exp() {
                                         ></path>
                                     </svg>
                                     <span className="spanexp">
-                                        Komunitas Mabar Bnetfit
+                                        Komunitas Mabar MyRepublic
                                     </span>
                                 </li>
                             </ul>
                             <p className="font-light lg:text-xl">
                                 Menyediakan pelayanan maksimal tanpa
-                                kompleksitas solusi tradisional. Pasang Bnetfit
-                                Sekarang.
+                                kompleksitas solusi tradisional. Pasang
+                                MyRepublic Sekarang.
                             </p>
                         </div>
                     </div>

@@ -6,7 +6,7 @@ export default function Hero() {
             <header className="head">
                 <nav className="navy">
                     <Link href="/" className="linky">
-                        <img src="bnet.webp" alt="logo bnet" className="h-7" />
+                        <img src="myrep.png" alt="logo bnet" className="h-7" />
                     </Link>
                     <a
                         className="awa"

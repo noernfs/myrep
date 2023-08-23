@@ -9,7 +9,9 @@ export default function Footer() {
                         <div className="text-center pt-10">
                             <h3 className="h3foot">
                                 Revolusi internet{" "}
-                                <span className="text-blue-900">Bnetfit</span>
+                                <span className=" text-blue-800">
+                                    MyRepublic
+                                </span>
                             </h3>
                             <p>
                                 {" "}
@@ -20,7 +22,7 @@ export default function Footer() {
                             </p>
                         </div>
                         <div className="div2foot">
-                            &copy; 2023 Bnetfit Corp. All rights reserved.
+                            &copy; 2023 MyRepublic Corp. All rights reserved.
                             <div className="order-1 md:order-2">
                                 <Link href="/profil" className="px-2">
                                     Profil

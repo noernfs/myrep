@@ -27,7 +27,7 @@ const Page: NextPageWithLayout = () => {
 
 Page.getLayout = function getLayout(page: ReactElement) {
     return (
-        <Layout title="Home | Pasang Wifi Bnetfit Dengan Harga Promo">
+        <Layout title="Promo Merdeka MyRepublic - Mulai dari 249rb/bulan">
             {page}
         </Layout>
     );

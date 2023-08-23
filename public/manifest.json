@@ -1,12 +1,12 @@
 {
-    "theme_color": "#3a35f6",
-    "background_color": "#3a35f6",
+    "theme_color": "#A9529F",
+    "background_color": "#A9529F",
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Bnetfit",
-    "short_name": "Bnetfit",
-    "description": "Internet Super Cepat Harga Super Terjangkau",
+    "name": "MyRepublic",
+    "short_name": "MyRepublic",
+    "description": "Promo Wifi MyRepublic, jaringan wifi super stabil dengan harga terjangkau.",
     "icons": [
         {
             "src": "/icon-192x192.png",

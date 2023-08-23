@@ -20,10 +20,10 @@ export default function Pricing() {
                                 className="imgpricing"
                             />
                             <div className="ml-5">
-                                <span className="spanpricing">Homelink 30</span>
+                                <span className="spanpricing">Fast 50</span>
                                 <span>
                                     <span className="spanrp">Rp&thinsp;</span>
-                                    <span className="spanhg">249rb </span>
+                                    <span className="spanhg">272rb </span>
                                 </span>
                                 <span className="spanbulan">/ bulan</span>
                             </div>
@@ -36,9 +36,7 @@ export default function Pricing() {
                                 />
                                 <span className="ml-3">
                                     Unlimited tanpa{" "}
-                                    <span className="text-black">
-                                        Kuota dan FUP
-                                    </span>
+                                    <span className="text-black">FUP</span>
                                 </span>
                             </li>
                             <li className="lipricing">
@@ -48,7 +46,7 @@ export default function Pricing() {
                                 />
                                 <span className="ml-3">
                                     Kecepatan optimal{" "}
-                                    <span className="text-black">30 Mpbs</span>
+                                    <span className="text-black">50 Mpbs</span>
                                 </span>
                             </li>
                             <li className="lipricing">
@@ -69,10 +67,8 @@ export default function Pricing() {
                                     alt="Serbu 20"
                                 />
                                 <span className="ml-3">
-                                    Biaya bulanan{" "}
-                                    <span className="text-black">
-                                        Selalu Flat
-                                    </span>{" "}
+                                    Upload dan Download{" "}
+                                    <span className="text-black">1 : 1</span>{" "}
                                 </span>
                             </li>
                         </ul>
@@ -97,11 +93,11 @@ export default function Pricing() {
                                 className="imgpricing"
                             />
                             <div className="ml-5">
-                                <span className="serbu10">Homelink 20</span>
+                                <span className="serbu10">Value 30</span>
                                 <span>
                                     <span className="rp10">Rp&thinsp;</span>
                                     <span className="spanhg text-white">
-                                        199rb{" "}
+                                        249rb{" "}
                                     </span>
                                 </span>
                                 <span className="font-medium">/ bulan</span>
@@ -115,9 +111,7 @@ export default function Pricing() {
                                 />
                                 <span className="ml-3">
                                     Unlimited tanpa{" "}
-                                    <span className="text-white">
-                                        Kuota dan FUP
-                                    </span>
+                                    <span className="text-white">FUP</span>
                                 </span>
                             </li>
                             <li className="lipricing">
@@ -127,7 +121,7 @@ export default function Pricing() {
                                 />
                                 <span className="ml-3">
                                     Kecepatan optimal{" "}
-                                    <span className="text-white">20 Mbps</span>
+                                    <span className="text-white">30 Mbps</span>
                                 </span>
                             </li>
                             <li className="flex mb-6">
@@ -148,11 +142,8 @@ export default function Pricing() {
                                     alt="Serbu 10"
                                 />
                                 <span className="ml-3">
-                                    Biaya bulanan{" "}
-                                    <span className="text-white">
-                                        {" "}
-                                        Selalu Flat
-                                    </span>{" "}
+                                    Upload dan Download{" "}
+                                    <span className="text-white">1 : 1</span>{" "}
                                 </span>
                             </li>
                         </ul>
@@ -177,10 +168,10 @@ export default function Pricing() {
                                 className="imgpricing"
                             />
                             <div className="ml-5">
-                                <span className="spanpricing">Homelink 50</span>
+                                <span className="spanpricing">Nova 100</span>
                                 <span>
                                     <span className="spanrp">Rp&thinsp;</span>
-                                    <span className="spanhg">290rb </span>
+                                    <span className="spanhg">391rb </span>
                                 </span>
                                 <span className="spanbulan">/ bulan</span>
                             </div>
@@ -193,9 +184,7 @@ export default function Pricing() {
                                 />
                                 <span className="ml-3">
                                     Unimited tanpa{" "}
-                                    <span className="text-black">
-                                        Kuota dan FUP
-                                    </span>
+                                    <span className="text-black">FUP</span>
                                 </span>
                             </li>
                             <li className="lipricing">
@@ -226,11 +215,8 @@ export default function Pricing() {
                                     alt="Serbu 30"
                                 />
                                 <span className="ml-3">
-                                    Biaya bulanan{" "}
-                                    <span className="text-white">
-                                        {" "}
-                                        Selalu Flat
-                                    </span>{" "}
+                                    Upload dan Download{" "}
+                                    <span className="text-black">1 : 1</span>{" "}
                                 </span>
                             </li>
                         </ul>
