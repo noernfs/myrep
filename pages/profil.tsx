@@ -18,7 +18,7 @@ const Page: NextPageWithLayout = () => {
 };
 
 Page.getLayout = function getLayout(page: ReactElement) {
-    return <Layout title="Profil | Tentang Wifi Bnetfit">{page}</Layout>;
+    return <Layout title="Tentang Kami">{page}</Layout>;
 };
 
 export default Page;

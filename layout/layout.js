@@ -27,11 +27,12 @@ export default function Layout({
                 />
                 <link rel="icon" href="/icon-192x192.png" />
                 <meta name="google-site-verification" content="VCfQ8AwXUvzazyn36xTsAfUJ6qGL_nfu2vkUMI27Nec" />
+                
             </Head>
             <div>
                 <Nav />
                 <Link
-                    href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                    href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                     className="float"
                     target="_blank"
                     rel="noopener"

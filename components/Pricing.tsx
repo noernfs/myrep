@@ -73,7 +73,7 @@ export default function Pricing() {
                             </li>
                         </ul>
                         <a
-                            href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, saya ingin informasi pemasangan paket Reguler 30. Terimakasih."
+                            href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya ingin informasi pemasangan paket Reguler 30. Terimakasih."
                             className="wapricing"
                         >
                             Pilih Paket
@@ -148,7 +148,7 @@ export default function Pricing() {
                             </li>
                         </ul>
                         <a
-                            href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, saya ingin informasi pemasangan paket Reguler 20. Terimakasih."
+                            href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya ingin informasi pemasangan paket Reguler 20. Terimakasih."
                             className="wapricing text-2xl"
                         >
                             Pilih Paket
@@ -221,7 +221,7 @@ export default function Pricing() {
                             </li>
                         </ul>
                         <a
-                            href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, saya ingin informasi pemasangan paket Reguler 50. Terimakasih."
+                            href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya ingin informasi pemasangan paket Reguler 50. Terimakasih."
                             className="wapricing"
                         >
                             Pilih Paket

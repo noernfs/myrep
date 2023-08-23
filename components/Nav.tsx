@@ -12,7 +12,7 @@ export const Nav = () => {
                     <Link href="/" className="linky">
                         <Image
                             src="/myrep.png"
-                            alt="Logo Bnetfit"
+                            alt="Logo MyRepublic"
                             width={170}
                             height={29}
                             className="py-3"
@@ -53,7 +53,7 @@ export const Nav = () => {
                     <ul className="flex items-center hidden space-x-8 lg:flex">
                         <li>
                             <Link
-                                href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                                href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                                 className="inline-flex items-center justify-center h-10 px-6 font-bold tracking-wide text-white transition duration-200 rounded-xl shadow-md bg-gradient-to-br from-gray-900 to-blue-900 focus:shadow-outline focus:outline-none"
                                 aria-label="Sign up"
                                 title="Sign up"
@@ -100,9 +100,9 @@ export const Nav = () => {
                                                 }
                                             >
                                                 <Image
-                                                    src="/bnet.webp"
+                                                    src="/myrep.png"
                                                     alt="logo asisten"
-                                                    width={94}
+                                                    width={150}
                                                     height={29}
                                                     className=""
                                                 />
@@ -173,7 +173,7 @@ export const Nav = () => {
 
                                             <li>
                                                 <Link
-                                                    href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo Bnetfit, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
+                                                    href="https://api.whatsapp.com/send?phone=6281314160043&text=Halo MyRepublic, saya mau bertanya tentang layanan yang tersedia. Terimakasih."
                                                     className="inline-flex items-center justify-center w-full h-12 px-6 font-bold tracking-wide text-white transition duration-200 rounded shadow-md bg-gradient-to-br from-gray-900 to-blue-900 focus:shadow-outline focus:outline-none"
                                                     aria-label="Sign up"
                                                     title="Sign up"
